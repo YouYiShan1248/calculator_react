@@ -1,0 +1,13 @@
+.component-app{
+    margin-top: 10px;
+    margin-left: 100px;
+    width: 300px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-radius: 10px;
+    overflow: hidden;
+}
